@@ -10,3 +10,4 @@ Here, a unit indicates the smallest bit of code that can be fetched out of the s
 This small bit can be a line of code, a method, or a class. 
 The smaller the chunk of code, the better it is, as smaller chunks will tend to run faster. 
 And this provides a better insight into the code and its performance.
+![Screenshot 2022-12-08 192531](https://user-images.githubusercontent.com/81478701/206525132-c6fd09bf-c794-4a49-8a26-85a30af2ee1d.jpg)
